@@ -1,0 +1,301 @@
+incident_id,incident_type,location,timestamp,severity,asset,casualties,source,confidence,date,hour,day,month
+INC-0001,Vehicle Incident,Raiganj,2023-02-28 22:50:00,Low,Vehicle,0,SIGINT,,2023-02-28,22,Tuesday,February
+INC-0002,Fire,Kolkata,2023-01-18 03:15:00,Medium,Server,1,SENSOR,0.63,2023-01-18,3,Wednesday,January
+INC-0003,Unauthorized Access,Siliguri,2023-03-18 03:01:00,Critical,Server,0,HUMINT,0.89,2023-03-18,3,Saturday,March
+INC-0004,Personnel Incident,Raiganj,2023-01-23 12:53:00,Low,Network Infrastructure,1,IMINT,0.66,2023-01-23,12,Monday,January
+INC-0005,Cyber Intrusion,Jalpaiguri,2023-01-10 00:39:00,Medium,Drone,0,IMINT,0.59,2023-01-10,0,Tuesday,January
+INC-0006,Fire,Asansol,2023-04-09 10:17:00,Medium,Vehicle,0,HUMINT,0.8,2023-04-09,10,Sunday,April
+INC-0007,Physical Security Breach,Siliguri,2023-04-27 07:27:00,Low,Network Infrastructure,0,IMINT,0.43,2023-04-27,7,Thursday,April
+INC-0008,Personnel Incident,Jalpaiguri,2023-02-07 11:50:00,Critical,Warehouse,0,SOCIAL MEDIA,0.53,2023-02-07,11,Tuesday,February
+INC-0009,Physical Security Breach,Asansol,2023-06-18 02:34:00,Medium,Communication Tower,0,SOCIAL MEDIA,0.65,2023-06-18,2,Sunday,June
+INC-0010,Fire,Asansol,2023-02-14 10:28:00,Critical,Warehouse,1,HUMINT,0.86,2023-02-14,10,Tuesday,February
+INC-0011,Drone Sighting,Siliguri,2023-02-22 10:01:00,Critical,Communication Tower,0,UNKNOWN,0.58,2023-02-22,10,Wednesday,February
+INC-0012,Vehicle Incident,Kolkata,2023-01-28 16:01:00,Low,Satellite,0,SOCIAL MEDIA,0.59,2023-01-28,16,Saturday,January
+INC-0013,Physical Security Breach,Cooch Behar,2023-06-09 09:01:00,High,Network Infrastructure,1,SENSOR,0.77,2023-06-09,9,Friday,June
+INC-0014,Drone Sighting,Siliguri,2023-05-26 01:40:00,High,Personnel,0,SOCIAL MEDIA,0.65,2023-05-26,1,Friday,May
+INC-0015,GPS Interference,Cooch Behar,2023-01-12 19:59:00,High,Network Infrastructure,1,OSINT,0.9,2023-01-12,19,Thursday,January
+INC-0016,Data Breach,Cooch Behar,2023-05-30 15:02:00,Critical,Warehouse,0,SOCIAL MEDIA,0.31,2023-05-30,15,Tuesday,May
+INC-0017,Communication Outage,Malda,2023-03-26 01:10:00,Low,Personnel,1,SENSOR,0.62,2023-03-26,1,Sunday,March
+INC-0018,Communication Outage,Cooch Behar,2023-05-20 20:27:00,Medium,Power Grid,0,ELINT,0.66,2023-05-20,20,Saturday,May
+INC-0019,Drone Sighting,Darjeeling,2023-06-08 15:18:00,Critical,Power Grid,1,SOCIAL MEDIA,0.57,2023-06-08,15,Thursday,June
+INC-0020,Vehicle Incident,Jalpaiguri,2023-06-10 19:33:00,High,Power Grid,0,SIGINT,0.99,2023-06-10,19,Saturday,June
+INC-0021,Unauthorized Access,Darjeeling,2023-05-05 06:51:00,Low,Communication Tower,1,CCTV,0.74,2023-05-05,6,Friday,May
+INC-0022,Cyber Intrusion,Kharagpur,2023-04-30 21:06:00,Medium,Drone,0,IMINT,0.53,2023-04-30,21,Sunday,April
+INC-0023,Supply Disruption,Bardhaman,2023-01-27 12:28:00,High,Communication Tower,0,CCTV,0.9,2023-01-27,12,Friday,January
+INC-0024,Personnel Incident,Raiganj,2023-04-04 20:12:00,Low,Personnel,0,UNKNOWN,0.65,2023-04-04,20,Tuesday,April
+INC-0025,Vehicle Incident,Haldia,2023-05-22 23:44:00,Critical,Power Grid,0,INTERNAL REPORT,0.82,2023-05-22,23,Monday,May
+INC-0026,Cyber Intrusion,Durgapur,2023-04-26 11:15:00,Low,Database,0,CCTV,0.83,2023-04-26,11,Wednesday,April
+INC-0027,Fire,Kolkata,2023-01-21 00:17:00,Low,Server,0,SENSOR,0.8,2023-01-21,0,Saturday,January
+INC-0028,Physical Security Breach,Malda,2023-04-08 16:31:00,Low,Vehicle,1,HUMINT,0.91,2023-04-08,16,Saturday,April
+INC-0029,Communication Outage,Raiganj,2023-04-22 18:54:00,High,Warehouse,0,CCTV,0.87,2023-04-22,18,Saturday,April
+INC-0030,Drone Sighting,Kharagpur,2023-03-28 07:35:00,Critical,Personnel,0,HUMINT,0.77,2023-03-28,7,Tuesday,March
+INC-0031,Drone Sighting,Cooch Behar,2023-01-16 15:14:00,High,Drone,0,SIGINT,0.84,2023-01-16,15,Monday,January
+INC-0032,Supply Disruption,Kolkata,2023-05-06 23:38:00,Medium,Satellite,0,SIGINT,0.8,2023-05-06,23,Saturday,May
+INC-0033,Cyber Intrusion,Jalpaiguri,2023-05-06 14:57:00,High,Vehicle,0,INTERNAL REPORT,0.94,2023-05-06,14,Saturday,May
+INC-0034,Physical Security Breach,Darjeeling,2023-02-17 12:49:00,High,Database,0,INTERNAL REPORT,0.91,2023-02-17,12,Friday,February
+INC-0035,Physical Security Breach,Raiganj,2023-05-22 19:44:00,Medium,Network Infrastructure,0,INTERNAL REPORT,0.96,2023-05-22,19,Monday,May
+INC-0036,Suspicious Activity,Durgapur,2023-06-29 07:12:00,Critical,Database,0,IMINT,0.49,2023-06-29,7,Thursday,June
+INC-0037,GPS Interference,Kolkata,2023-03-31 16:59:00,Low,Drone,0,SENSOR,0.77,2023-03-31,16,Friday,March
+INC-0038,Physical Security Breach,Kharagpur,2023-02-05 06:02:00,High,Warehouse,0,UNKNOWN,0.24,2023-02-05,6,Sunday,February
+INC-0039,Infrastructure Failure,Durgapur,2023-01-19 14:19:00,High,Database,1,IMINT,0.62,2023-01-19,14,Thursday,January
+INC-0040,Cyber Intrusion,Kharagpur,2023-06-29 08:37:00,High,Vehicle,1,UNKNOWN,0.62,2023-06-29,8,Thursday,June
+INC-0041,Suspicious Activity,Cooch Behar,2023-01-22 19:52:00,Medium,Personnel,0,CCTV,0.96,2023-01-22,19,Sunday,January
+INC-0042,Drone Sighting,Cooch Behar,2023-03-20 23:50:00,Critical,Personnel,0,SENSOR,0.74,2023-03-20,23,Monday,March
+INC-0043,GPS Interference,Darjeeling,2023-06-22 08:37:00,Medium,Communication Tower,0,HUMINT,0.61,2023-06-22,8,Thursday,June
+INC-0044,Suspicious Activity,Raiganj,2023-04-18 13:17:00,Medium,Network Infrastructure,0,SOCIAL MEDIA,0.71,2023-04-18,13,Tuesday,April
+INC-0045,Personnel Incident,Bardhaman,2023-06-28 11:01:00,Medium,Satellite,0,SOCIAL MEDIA,0.57,2023-06-28,11,Wednesday,June
+INC-0046,Suspicious Activity,Cooch Behar,2023-01-04 21:29:00,Low,Satellite,0,OSINT,0.8,2023-01-04,21,Wednesday,January
+INC-0047,Unauthorized Access,Durgapur,2023-01-26 08:23:00,Low,Drone,0,CCTV,0.76,2023-01-26,8,Thursday,January
+INC-0048,Suspicious Activity,Malda,2023-04-02 05:36:00,High,Drone,0,IMINT,0.64,2023-04-02,5,Sunday,April
+INC-0049,Cyber Intrusion,Cooch Behar,2023-06-01 20:39:00,High,Personnel,0,SIGINT,0.89,2023-06-01,20,Thursday,June
+INC-0050,Vehicle Incident,Jalpaiguri,2023-05-29 08:59:00,Medium,Satellite,1,INTERNAL REPORT,0.83,2023-05-29,8,Monday,May
+INC-0051,Infrastructure Failure,Darjeeling,2023-04-03 22:36:00,Low,Communication Tower,0,OSINT,0.57,2023-04-03,22,Monday,April
+INC-0052,GPS Interference,Siliguri,2023-03-28 04:43:00,Low,Warehouse,0,UNKNOWN,0.54,2023-03-28,4,Tuesday,March
+INC-0053,Infrastructure Failure,Siliguri,2023-04-07 14:46:00,Low,Database,0,INTERNAL REPORT,0.84,2023-04-07,14,Friday,April
+INC-0054,Supply Disruption,Kharagpur,2023-01-08 16:22:00,Low,Vehicle,0,CCTV,0.76,2023-01-08,16,Sunday,January
+INC-0055,Fire,Jalpaiguri,2023-04-22 12:10:00,Medium,Drone,3,INTERNAL REPORT,0.89,2023-04-22,12,Saturday,April
+INC-0056,Supply Disruption,Durgapur,2023-04-08 01:57:00,High,Satellite,1,SOCIAL MEDIA,0.75,2023-04-08,1,Saturday,April
+INC-0057,Communication Outage,Haldia,2023-02-06 21:07:00,Low,Power Grid,0,SOCIAL MEDIA,0.52,2023-02-06,21,Monday,February
+INC-0058,Vehicle Incident,Siliguri,2023-01-14 04:57:00,Medium,Drone,0,IMINT,0.75,2023-01-14,4,Saturday,January
+INC-0059,GPS Interference,Raiganj,2023-06-13 07:10:00,High,UNKNOWN,1,SIGINT,0.77,2023-06-13,7,Tuesday,June
+INC-0060,Unauthorized Access,Kolkata,2023-01-25 23:40:00,Low,Power Grid,0,SOCIAL MEDIA,0.74,2023-01-25,23,Wednesday,January
+INC-0061,Communication Outage,Cooch Behar,2023-01-30 15:15:00,Critical,Satellite,0,IMINT,0.58,2023-01-30,15,Monday,January
+INC-0062,Physical Security Breach,Bardhaman,2023-03-18 16:35:00,Low,Warehouse,0,IMINT,0.41,2023-03-18,16,Saturday,March
+INC-0063,Infrastructure Failure,Cooch Behar,2023-04-11 20:40:00,Low,Power Grid,0,SOCIAL MEDIA,0.47,2023-04-11,20,Tuesday,April
+INC-0064,Supply Disruption,Siliguri,2023-04-24 13:58:00,Low,Database,0,UNKNOWN,0.89,2023-04-24,13,Monday,April
+INC-0065,Data Breach,Asansol,2023-01-20 01:47:00,Low,Communication Tower,0,HUMINT,0.69,2023-01-20,1,Friday,January
+INC-0066,Personnel Incident,Asansol,2023-01-24 14:02:00,Critical,Communication Tower,0,CCTV,0.86,2023-01-24,14,Tuesday,January
+INC-0067,Infrastructure Failure,Cooch Behar,2023-04-04 17:07:00,High,Vehicle,1,UNKNOWN,0.34,2023-04-04,17,Tuesday,April
+INC-0068,Vehicle Incident,Siliguri,2023-05-26 13:27:00,High,Server,0,SIGINT,0.88,2023-05-26,13,Friday,May
+INC-0069,Drone Sighting,Malda,2023-05-26 22:22:00,Medium,Vehicle,0,ELINT,0.61,2023-05-26,22,Friday,May
+INC-0070,Cyber Intrusion,Bardhaman,2023-01-23 03:37:00,Critical,Drone,1,SOCIAL MEDIA,0.61,2023-01-23,3,Monday,January
+INC-0071,GPS Interference,Durgapur,2023-01-08 20:46:00,Low,Communication Tower,0,INTERNAL REPORT,0.85,2023-01-08,20,Sunday,January
+INC-0072,Data Breach,Raiganj,2023-02-02 23:26:00,High,Satellite,2,IMINT,0.74,2023-02-02,23,Thursday,February
+INC-0073,Supply Disruption,Raiganj,2023-02-22 18:51:00,Medium,Drone,1,SOCIAL MEDIA,0.47,2023-02-22,18,Wednesday,February
+INC-0074,Cyber Intrusion,Kolkata,2023-01-04 07:21:00,Low,Satellite,0,ELINT,0.72,2023-01-04,7,Wednesday,January
+INC-0075,Infrastructure Failure,Durgapur,2023-02-04 11:44:00,Critical,Vehicle,1,INTERNAL REPORT,0.93,2023-02-04,11,Saturday,February
+INC-0076,Personnel Incident,Kharagpur,2023-04-29 08:21:00,Critical,Satellite,0,CCTV,0.79,2023-04-29,8,Saturday,April
+INC-0077,Physical Security Breach,Durgapur,2023-02-09 04:08:00,Medium,Power Grid,0,IMINT,0.85,2023-02-09,4,Thursday,February
+INC-0078,Communication Outage,Kolkata,2023-06-28 17:54:00,Low,Drone,0,OSINT,0.67,2023-06-28,17,Wednesday,June
+INC-0079,Personnel Incident,Haldia,2023-01-11 02:03:00,High,Network Infrastructure,0,HUMINT,0.68,2023-01-11,2,Wednesday,January
+INC-0080,Infrastructure Failure,Darjeeling,2023-02-23 08:23:00,Medium,Drone,1,OSINT,0.68,2023-02-23,8,Thursday,February
+INC-0081,Physical Security Breach,Jalpaiguri,2023-02-17 22:07:00,High,Database,0,SENSOR,0.61,2023-02-17,22,Friday,February
+INC-0082,Unauthorized Access,Bardhaman,2023-06-10 15:12:00,Medium,Server,0,CCTV,,2023-06-10,15,Saturday,June
+INC-0083,Data Breach,Jalpaiguri,2023-01-16 06:31:00,Medium,Database,1,SOCIAL MEDIA,0.55,2023-01-16,6,Monday,January
+INC-0084,Data Breach,Siliguri,2023-01-01 21:37:00,Medium,Power Grid,0,HUMINT,0.81,2023-01-01,21,Sunday,January
+INC-0085,Data Breach,Asansol,2023-03-13 17:19:00,Medium,Vehicle,0,CCTV,0.73,2023-03-13,17,Monday,March
+INC-0086,Personnel Incident,Cooch Behar,2023-04-07 08:03:00,Critical,Warehouse,0,SIGINT,0.91,2023-04-07,8,Friday,April
+INC-0087,Data Breach,Cooch Behar,2023-03-31 23:09:00,Medium,Server,0,SIGINT,0.94,2023-03-31,23,Friday,March
+INC-0088,Personnel Incident,Haldia,2023-05-11 03:55:00,Medium,Satellite,0,INTERNAL REPORT,0.95,2023-05-11,3,Thursday,May
+INC-0089,Personnel Incident,Malda,2023-04-14 11:43:00,Medium,Vehicle,0,OSINT,0.51,2023-04-14,11,Friday,April
+INC-0090,Drone Sighting,Haldia,2023-01-25 05:29:00,Critical,Satellite,2,SENSOR,0.62,2023-01-25,5,Wednesday,January
+INC-0091,Personnel Incident,Durgapur,2023-01-04 10:18:00,Critical,Drone,0,INTERNAL REPORT,0.8,2023-01-04,10,Wednesday,January
+INC-0092,GPS Interference,Jalpaiguri,2023-05-26 05:11:00,Low,Satellite,0,HUMINT,0.62,2023-05-26,5,Friday,May
+INC-0093,Data Breach,Siliguri,2023-05-15 03:04:00,High,Database,0,SOCIAL MEDIA,0.66,2023-05-15,3,Monday,May
+INC-0094,GPS Interference,Raiganj,2023-02-07 08:36:00,Critical,Personnel,0,IMINT,0.78,2023-02-07,8,Tuesday,February
+INC-0095,Personnel Incident,Asansol,2023-01-14 23:16:00,Low,Network Infrastructure,0,SOCIAL MEDIA,0.62,2023-01-14,23,Saturday,January
+INC-0096,Fire,Darjeeling,2023-02-06 02:20:00,High,UNKNOWN,0,CCTV,0.83,2023-02-06,2,Monday,February
+INC-0097,Fire,Malda,2023-05-07 03:16:00,Medium,Server,1,ELINT,0.69,2023-05-07,3,Sunday,May
+INC-0098,Personnel Incident,Siliguri,2023-03-30 10:29:00,Medium,Personnel,0,ELINT,,2023-03-30,10,Thursday,March
+INC-0099,Infrastructure Failure,Kharagpur,2023-04-05 00:46:00,Critical,Vehicle,0,ELINT,0.9,2023-04-05,0,Wednesday,April
+INC-0100,Data Breach,Siliguri,2023-04-10 22:57:00,Critical,Server,2,IMINT,0.53,2023-04-10,22,Monday,April
+INC-0101,Infrastructure Failure,Asansol,2023-01-14 22:04:00,Critical,Database,0,INTERNAL REPORT,0.98,2023-01-14,22,Saturday,January
+INC-0102,Drone Sighting,Malda,2023-06-19 09:34:00,Low,Communication Tower,2,IMINT,0.74,2023-06-19,9,Monday,June
+INC-0103,Communication Outage,Malda,2023-02-17 15:51:00,High,Vehicle,0,SENSOR,0.85,2023-02-17,15,Friday,February
+INC-0104,Infrastructure Failure,Haldia,2023-02-12 02:55:00,Low,UNKNOWN,0,SOCIAL MEDIA,0.3,2023-02-12,2,Sunday,February
+INC-0105,Vehicle Incident,Asansol,2023-03-31 12:15:00,Medium,Power Grid,1,SOCIAL MEDIA,0.47,2023-03-31,12,Friday,March
+INC-0106,Physical Security Breach,Kolkata,2023-02-27 12:57:00,High,Warehouse,0,HUMINT,0.89,2023-02-27,12,Monday,February
+INC-0107,GPS Interference,Kolkata,2023-01-22 20:28:00,High,Drone,1,IMINT,0.57,2023-01-22,20,Sunday,January
+INC-0108,Fire,Siliguri,2023-03-13 12:36:00,High,Power Grid,0,CCTV,0.92,2023-03-13,12,Monday,March
+INC-0109,Data Breach,Siliguri,2023-06-05 12:17:00,Low,Drone,0,OSINT,0.75,2023-06-05,12,Monday,June
+INC-0110,Data Breach,Haldia,2023-01-28 02:37:00,High,Database,0,IMINT,0.75,2023-01-28,2,Saturday,January
+INC-0111,Cyber Intrusion,Raiganj,2023-05-23 22:20:00,Critical,UNKNOWN,1,CCTV,0.86,2023-05-23,22,Tuesday,May
+INC-0112,Cyber Intrusion,Kolkata,2023-05-11 23:51:00,Critical,UNKNOWN,0,HUMINT,0.82,2023-05-11,23,Thursday,May
+INC-0113,Infrastructure Failure,Kolkata,2023-01-26 05:25:00,Medium,Communication Tower,0,ELINT,0.69,2023-01-26,5,Thursday,January
+INC-0114,Data Breach,Asansol,2023-03-04 13:29:00,High,Power Grid,0,ELINT,0.76,2023-03-04,13,Saturday,March
+INC-0115,Supply Disruption,Raiganj,2023-02-24 18:22:00,Critical,Vehicle,0,SOCIAL MEDIA,0.38,2023-02-24,18,Friday,February
+INC-0116,Unauthorized Access,Jalpaiguri,2023-01-30 10:17:00,Critical,Satellite,0,HUMINT,0.68,2023-01-30,10,Monday,January
+INC-0117,Suspicious Activity,Kharagpur,2023-06-14 23:30:00,Critical,Communication Tower,0,SENSOR,0.79,2023-06-14,23,Wednesday,June
+INC-0118,Communication Outage,Bardhaman,2023-02-14 10:25:00,Low,Warehouse,0,HUMINT,0.68,2023-02-14,10,Tuesday,February
+INC-0119,Unauthorized Access,Kolkata,2023-02-17 00:46:00,Critical,Power Grid,0,UNKNOWN,0.41,2023-02-17,0,Friday,February
+INC-0120,Vehicle Incident,Asansol,2023-04-06 10:07:00,High,Server,0,IMINT,,2023-04-06,10,Thursday,April
+INC-0121,Communication Outage,Raiganj,2023-04-15 13:04:00,Medium,Vehicle,0,SENSOR,0.69,2023-04-15,13,Saturday,April
+INC-0122,Vehicle Incident,Raiganj,2023-02-15 05:30:00,Critical,Power Grid,0,CCTV,0.98,2023-02-15,5,Wednesday,February
+INC-0123,Communication Outage,Kolkata,2023-06-04 11:57:00,Critical,Personnel,2,OSINT,0.89,2023-06-04,11,Sunday,June
+INC-0124,Drone Sighting,Haldia,2023-03-31 04:04:00,Critical,Personnel,0,OSINT,0.6,2023-03-31,4,Friday,March
+INC-0125,Communication Outage,Darjeeling,2023-01-20 20:25:00,Low,Personnel,2,IMINT,0.44,2023-01-20,20,Friday,January
+INC-0126,Cyber Intrusion,Darjeeling,2023-05-22 10:09:00,Medium,Network Infrastructure,1,OSINT,0.87,2023-05-22,10,Monday,May
+INC-0127,Communication Outage,Raiganj,2023-04-28 12:15:00,High,Satellite,0,ELINT,0.75,2023-04-28,12,Friday,April
+INC-0128,Drone Sighting,Kolkata,2023-05-08 04:09:00,High,Satellite,1,HUMINT,0.93,2023-05-08,4,Monday,May
+INC-0129,Data Breach,Durgapur,2023-02-04 21:33:00,Low,Server,0,CCTV,0.86,2023-02-04,21,Saturday,February
+INC-0130,Physical Security Breach,Raiganj,2023-03-25 20:47:00,Medium,Personnel,0,ELINT,0.71,2023-03-25,20,Saturday,March
+INC-0131,Cyber Intrusion,Kolkata,2023-04-10 13:53:00,High,Server,0,IMINT,,2023-04-10,13,Monday,April
+INC-0132,Drone Sighting,Asansol,2023-04-01 17:09:00,Medium,Power Grid,1,CCTV,0.97,2023-04-01,17,Saturday,April
+INC-0133,Cyber Intrusion,Cooch Behar,2023-02-11 06:50:00,High,Power Grid,0,SOCIAL MEDIA,0.48,2023-02-11,6,Saturday,February
+INC-0134,Cyber Intrusion,Asansol,2023-03-14 03:42:00,Low,Database,0,IMINT,0.62,2023-03-14,3,Tuesday,March
+INC-0135,Suspicious Activity,Durgapur,2023-02-06 11:37:00,Medium,Personnel,0,ELINT,0.59,2023-02-06,11,Monday,February
+INC-0136,Drone Sighting,Malda,2023-05-19 10:32:00,Critical,Network Infrastructure,0,ELINT,0.57,2023-05-19,10,Friday,May
+INC-0137,Vehicle Incident,Raiganj,2023-02-10 15:43:00,Low,Network Infrastructure,0,SOCIAL MEDIA,0.37,2023-02-10,15,Friday,February
+INC-0138,Unauthorized Access,Kolkata,2023-03-13 15:03:00,Medium,Power Grid,0,OSINT,0.52,2023-03-13,15,Monday,March
+INC-0139,Vehicle Incident,Kharagpur,2023-01-11 22:44:00,High,Vehicle,0,SIGINT,0.99,2023-01-11,22,Wednesday,January
+INC-0140,Physical Security Breach,Durgapur,2023-06-19 14:12:00,Medium,Satellite,0,SIGINT,0.92,2023-06-19,14,Monday,June
+INC-0141,Personnel Incident,Cooch Behar,2023-01-06 19:20:00,Critical,Warehouse,0,ELINT,0.89,2023-01-06,19,Friday,January
+INC-0142,Drone Sighting,Kolkata,2023-03-22 13:01:00,Low,Drone,0,SIGINT,0.72,2023-03-22,13,Wednesday,March
+INC-0143,Supply Disruption,Durgapur,2023-03-18 11:48:00,Critical,Warehouse,0,HUMINT,0.87,2023-03-18,11,Saturday,March
+INC-0144,Drone Sighting,Kolkata,2023-02-26 04:43:00,Critical,Database,0,CCTV,0.81,2023-02-26,4,Sunday,February
+INC-0145,Unauthorized Access,Bardhaman,2023-06-17 09:23:00,High,Personnel,0,SOCIAL MEDIA,0.32,2023-06-17,9,Saturday,June
+INC-0146,Suspicious Activity,Raiganj,2023-03-16 18:49:00,Critical,Server,0,IMINT,0.57,2023-03-16,18,Thursday,March
+INC-0147,Suspicious Activity,Kolkata,2023-03-26 11:28:00,High,UNKNOWN,2,HUMINT,0.86,2023-03-26,11,Sunday,March
+INC-0148,Physical Security Breach,Bardhaman,2023-06-13 13:49:00,High,Warehouse,0,UNKNOWN,0.68,2023-06-13,13,Tuesday,June
+INC-0149,Data Breach,Cooch Behar,2023-04-23 07:37:00,High,Drone,0,OSINT,0.62,2023-04-23,7,Sunday,April
+INC-0150,Suspicious Activity,Raiganj,2023-05-12 08:35:00,Low,Server,0,UNKNOWN,0.61,2023-05-12,8,Friday,May
+INC-0151,GPS Interference,Kharagpur,2023-01-20 12:37:00,Critical,Drone,0,SOCIAL MEDIA,0.76,2023-01-20,12,Friday,January
+INC-0152,Communication Outage,Kharagpur,2023-05-29 07:54:00,Medium,Server,0,SOCIAL MEDIA,0.7,2023-05-29,7,Monday,May
+INC-0153,GPS Interference,Darjeeling,2023-05-15 10:30:00,Medium,Warehouse,1,ELINT,0.84,2023-05-15,10,Monday,May
+INC-0154,Suspicious Activity,Malda,2023-03-25 21:11:00,Low,Satellite,0,SENSOR,0.67,2023-03-25,21,Saturday,March
+INC-0155,Unauthorized Access,Haldia,2023-05-18 01:24:00,Low,Server,0,CCTV,0.84,2023-05-18,1,Thursday,May
+INC-0156,Communication Outage,Haldia,2023-04-10 03:27:00,Low,Vehicle,1,SENSOR,0.69,2023-04-10,3,Monday,April
+INC-0157,Drone Sighting,Haldia,2023-01-16 07:21:00,Critical,Personnel,1,UNKNOWN,0.48,2023-01-16,7,Monday,January
+INC-0158,Infrastructure Failure,Malda,2023-01-25 04:47:00,Medium,Satellite,0,CCTV,0.95,2023-01-25,4,Wednesday,January
+INC-0159,Suspicious Activity,Asansol,2023-05-01 22:55:00,High,Drone,0,HUMINT,,2023-05-01,22,Monday,May
+INC-0160,GPS Interference,Asansol,2023-03-09 21:32:00,Medium,Personnel,0,ELINT,0.6,2023-03-09,21,Thursday,March
+INC-0161,Communication Outage,Asansol,2023-02-14 15:54:00,Medium,Warehouse,0,IMINT,0.43,2023-02-14,15,Tuesday,February
+INC-0162,Supply Disruption,Jalpaiguri,2023-02-15 19:29:00,Medium,Vehicle,0,IMINT,0.69,2023-02-15,19,Wednesday,February
+INC-0163,Cyber Intrusion,Kharagpur,2023-01-07 17:45:00,Medium,Personnel,0,HUMINT,0.92,2023-01-07,17,Saturday,January
+INC-0164,Unauthorized Access,Siliguri,2023-01-08 08:20:00,Low,Database,2,ELINT,0.74,2023-01-08,8,Sunday,January
+INC-0165,Unauthorized Access,Siliguri,2023-05-31 17:15:00,High,Satellite,0,UNKNOWN,0.63,2023-05-31,17,Wednesday,May
+INC-0166,Data Breach,Raiganj,2023-03-23 18:12:00,Low,Vehicle,0,UNKNOWN,0.52,2023-03-23,18,Thursday,March
+INC-0167,Physical Security Breach,Durgapur,2023-05-10 04:45:00,Low,Warehouse,2,UNKNOWN,0.37,2023-05-10,4,Wednesday,May
+INC-0168,Data Breach,Kolkata,2023-01-09 00:57:00,Medium,Server,1,IMINT,0.77,2023-01-09,0,Monday,January
+INC-0169,Communication Outage,Malda,2023-03-16 10:55:00,High,Vehicle,0,SENSOR,0.67,2023-03-16,10,Thursday,March
+INC-0170,Supply Disruption,Kharagpur,2023-05-25 18:38:00,Low,Power Grid,0,SOCIAL MEDIA,0.35,2023-05-25,18,Thursday,May
+INC-0171,Communication Outage,Raiganj,2023-03-13 23:04:00,Low,Communication Tower,0,INTERNAL REPORT,0.88,2023-03-13,23,Monday,March
+INC-0172,Data Breach,Raiganj,2023-02-19 08:44:00,High,Power Grid,0,CCTV,0.98,2023-02-19,8,Sunday,February
+INC-0173,Physical Security Breach,Haldia,2023-02-26 20:43:00,Critical,Server,1,UNKNOWN,0.63,2023-02-26,20,Sunday,February
+INC-0174,Personnel Incident,Durgapur,2023-05-27 00:57:00,Critical,Power Grid,0,SENSOR,0.67,2023-05-27,0,Saturday,May
+INC-0175,Communication Outage,Haldia,2023-01-02 01:40:00,Low,Vehicle,0,CCTV,0.82,2023-01-02,1,Monday,January
+INC-0176,Infrastructure Failure,Darjeeling,2023-06-10 17:10:00,Medium,Server,0,SENSOR,0.62,2023-06-10,17,Saturday,June
+INC-0177,Drone Sighting,Malda,2023-01-26 22:34:00,High,Satellite,1,CCTV,,2023-01-26,22,Thursday,January
+INC-0178,Communication Outage,Jalpaiguri,2023-03-05 08:11:00,Medium,Vehicle,0,ELINT,0.54,2023-03-05,8,Sunday,March
+INC-0179,Data Breach,Darjeeling,2023-03-31 07:04:00,Low,Personnel,1,IMINT,0.54,2023-03-31,7,Friday,March
+INC-0180,Drone Sighting,Cooch Behar,2023-04-21 14:50:00,Medium,Database,1,CCTV,0.88,2023-04-21,14,Friday,April
+INC-0181,Infrastructure Failure,Darjeeling,2023-04-22 21:47:00,Medium,Server,0,IMINT,0.58,2023-04-22,21,Saturday,April
+INC-0182,Vehicle Incident,Bardhaman,2023-04-05 06:42:00,Low,Communication Tower,0,SIGINT,0.77,2023-04-05,6,Wednesday,April
+INC-0183,Cyber Intrusion,Jalpaiguri,2023-05-12 23:03:00,Low,Warehouse,0,IMINT,0.45,2023-05-12,23,Friday,May
+INC-0184,Supply Disruption,Raiganj,2023-04-20 03:20:00,High,Power Grid,0,SOCIAL MEDIA,0.45,2023-04-20,3,Thursday,April
+INC-0185,Vehicle Incident,Raiganj,2023-02-15 09:01:00,High,Personnel,1,CCTV,0.85,2023-02-15,9,Wednesday,February
+INC-0186,Cyber Intrusion,Malda,2023-02-02 13:01:00,Critical,Personnel,2,OSINT,0.59,2023-02-02,13,Thursday,February
+INC-0187,Suspicious Activity,Kharagpur,2023-05-20 00:04:00,Medium,Personnel,0,UNKNOWN,0.4,2023-05-20,0,Saturday,May
+INC-0188,Physical Security Breach,Haldia,2023-01-13 05:15:00,High,Vehicle,0,SIGINT,0.93,2023-01-13,5,Friday,January
+INC-0189,Personnel Incident,Kolkata,2023-04-02 19:30:00,Low,Communication Tower,1,INTERNAL REPORT,0.82,2023-04-02,19,Sunday,April
+INC-0190,Suspicious Activity,Kolkata,2023-05-14 12:37:00,Low,Server,0,SENSOR,0.86,2023-05-14,12,Sunday,May
+INC-0191,Personnel Incident,Darjeeling,2023-06-12 21:44:00,Low,Vehicle,1,CCTV,,2023-06-12,21,Monday,June
+INC-0192,Unauthorized Access,Darjeeling,2023-05-14 06:31:00,Critical,Drone,0,HUMINT,0.93,2023-05-14,6,Sunday,May
+INC-0193,Personnel Incident,Cooch Behar,2023-06-16 18:14:00,Medium,Vehicle,0,SIGINT,0.94,2023-06-16,18,Friday,June
+INC-0194,Communication Outage,Bardhaman,2023-04-22 03:04:00,High,UNKNOWN,0,ELINT,0.56,2023-04-22,3,Saturday,April
+INC-0195,Unauthorized Access,Malda,2023-04-02 10:13:00,High,Network Infrastructure,1,SOCIAL MEDIA,,2023-04-02,10,Sunday,April
+INC-0196,Cyber Intrusion,Durgapur,2023-02-28 02:04:00,Medium,Power Grid,1,SENSOR,0.66,2023-02-28,2,Tuesday,February
+INC-0197,Personnel Incident,Bardhaman,2023-06-20 11:12:00,Critical,Communication Tower,0,ELINT,0.82,2023-06-20,11,Tuesday,June
+INC-0198,Suspicious Activity,Jalpaiguri,2023-02-18 02:55:00,Low,Warehouse,1,HUMINT,0.94,2023-02-18,2,Saturday,February
+INC-0199,Supply Disruption,Malda,2023-03-24 11:21:00,Low,Drone,0,INTERNAL REPORT,1.0,2023-03-24,11,Friday,March
+INC-0200,GPS Interference,Bardhaman,2023-04-25 15:32:00,High,Power Grid,0,CCTV,0.99,2023-04-25,15,Tuesday,April
+INC-0201,Physical Security Breach,Bardhaman,2023-04-16 02:31:00,Low,Personnel,0,SIGINT,0.77,2023-04-16,2,Sunday,April
+INC-0202,Data Breach,Jalpaiguri,2023-04-23 00:36:00,High,Drone,0,OSINT,0.76,2023-04-23,0,Sunday,April
+INC-0203,Personnel Incident,Bardhaman,2023-06-29 03:24:00,Low,Server,1,UNKNOWN,0.31,2023-06-29,3,Thursday,June
+INC-0204,Personnel Incident,Haldia,2023-02-22 23:16:00,Critical,Satellite,1,UNKNOWN,0.38,2023-02-22,23,Wednesday,February
+INC-0205,Infrastructure Failure,Durgapur,2023-01-09 16:44:00,Low,Server,0,SIGINT,0.72,2023-01-09,16,Monday,January
+INC-0206,Data Breach,Siliguri,2023-04-14 05:47:00,High,Satellite,0,SENSOR,0.68,2023-04-14,5,Friday,April
+INC-0207,Fire,Darjeeling,2023-04-17 05:44:00,Medium,Warehouse,0,ELINT,0.75,2023-04-17,5,Monday,April
+INC-0208,Communication Outage,Kolkata,2023-03-28 10:52:00,Medium,Communication Tower,1,SIGINT,0.83,2023-03-28,10,Tuesday,March
+INC-0209,Personnel Incident,Asansol,2023-01-12 14:10:00,Critical,Drone,0,SIGINT,0.98,2023-01-12,14,Thursday,January
+INC-0210,Physical Security Breach,Malda,2023-01-11 05:14:00,Critical,Network Infrastructure,0,INTERNAL REPORT,0.99,2023-01-11,5,Wednesday,January
+INC-0211,Unauthorized Access,Darjeeling,2023-05-14 12:48:00,Low,Server,1,SOCIAL MEDIA,0.33,2023-05-14,12,Sunday,May
+INC-0212,Communication Outage,Durgapur,2023-01-05 14:12:00,Medium,Server,1,CCTV,0.96,2023-01-05,14,Thursday,January
+INC-0213,Fire,Jalpaiguri,2023-01-20 02:23:00,Medium,Communication Tower,1,OSINT,,2023-01-20,2,Friday,January
+INC-0214,Personnel Incident,Jalpaiguri,2023-04-05 08:18:00,Critical,Network Infrastructure,0,UNKNOWN,0.29,2023-04-05,8,Wednesday,April
+INC-0215,Data Breach,Raiganj,2023-02-26 07:42:00,Low,Personnel,1,HUMINT,,2023-02-26,7,Sunday,February
+INC-0216,Vehicle Incident,Cooch Behar,2023-01-02 03:44:00,Critical,Vehicle,0,CCTV,0.92,2023-01-02,3,Monday,January
+INC-0217,Unauthorized Access,Siliguri,2023-03-24 08:56:00,High,Database,0,SIGINT,0.89,2023-03-24,8,Friday,March
+INC-0218,GPS Interference,Cooch Behar,2023-01-23 10:33:00,High,Server,0,CCTV,0.69,2023-01-23,10,Monday,January
+INC-0219,Personnel Incident,Jalpaiguri,2023-04-11 19:32:00,High,UNKNOWN,0,CCTV,0.89,2023-04-11,19,Tuesday,April
+INC-0220,Drone Sighting,Jalpaiguri,2023-06-25 16:45:00,Low,Communication Tower,0,IMINT,0.52,2023-06-25,16,Sunday,June
+INC-0221,Communication Outage,Cooch Behar,2023-02-12 23:34:00,High,Database,0,IMINT,0.8,2023-02-12,23,Sunday,February
+INC-0222,Unauthorized Access,Haldia,2023-03-01 19:28:00,Critical,Personnel,0,UNKNOWN,0.62,2023-03-01,19,Wednesday,March
+INC-0223,Cyber Intrusion,Haldia,2023-05-07 23:56:00,Medium,Network Infrastructure,0,OSINT,0.85,2023-05-07,23,Sunday,May
+INC-0224,Vehicle Incident,Malda,2023-05-24 16:04:00,Low,Network Infrastructure,1,IMINT,0.81,2023-05-24,16,Wednesday,May
+INC-0225,Cyber Intrusion,Siliguri,2023-01-27 07:44:00,Low,Network Infrastructure,0,OSINT,0.87,2023-01-27,7,Friday,January
+INC-0226,GPS Interference,Kolkata,2023-03-04 18:43:00,Low,Server,0,SIGINT,0.74,2023-03-04,18,Saturday,March
+INC-0227,GPS Interference,Siliguri,2023-04-28 03:41:00,Low,Vehicle,0,OSINT,0.84,2023-04-28,3,Friday,April
+INC-0228,Unauthorized Access,Jalpaiguri,2023-05-19 16:13:00,Low,Power Grid,1,SENSOR,0.64,2023-05-19,16,Friday,May
+INC-0229,Drone Sighting,Kolkata,2023-02-07 10:49:00,Low,Vehicle,0,IMINT,0.77,2023-02-07,10,Tuesday,February
+INC-0230,Infrastructure Failure,Siliguri,2023-04-25 23:13:00,Medium,Vehicle,0,ELINT,0.82,2023-04-25,23,Tuesday,April
+INC-0231,Data Breach,Bardhaman,2023-04-28 15:48:00,High,Power Grid,1,IMINT,0.52,2023-04-28,15,Friday,April
+INC-0232,Data Breach,Kolkata,2023-03-05 21:06:00,High,Warehouse,0,ELINT,0.81,2023-03-05,21,Sunday,March
+INC-0233,Infrastructure Failure,Asansol,2023-04-20 14:12:00,Low,Power Grid,0,INTERNAL REPORT,0.81,2023-04-20,14,Thursday,April
+INC-0234,Physical Security Breach,Kharagpur,2023-04-05 09:53:00,Low,Satellite,1,HUMINT,0.8,2023-04-05,9,Wednesday,April
+INC-0235,Fire,Asansol,2023-05-11 01:13:00,Medium,Power Grid,0,HUMINT,0.6,2023-05-11,1,Thursday,May
+INC-0236,Suspicious Activity,Kolkata,2023-02-06 18:42:00,Low,Warehouse,0,ELINT,0.7,2023-02-06,18,Monday,February
+INC-0237,Infrastructure Failure,Malda,2023-03-31 11:19:00,High,Satellite,1,SIGINT,0.78,2023-03-31,11,Friday,March
+INC-0238,Data Breach,Durgapur,2023-06-21 19:49:00,Medium,Personnel,1,SIGINT,0.75,2023-06-21,19,Wednesday,June
+INC-0239,Infrastructure Failure,Kolkata,2023-06-20 21:17:00,Low,Warehouse,0,HUMINT,0.72,2023-06-20,21,Tuesday,June
+INC-0240,GPS Interference,Siliguri,2023-03-15 01:10:00,Critical,Server,0,CCTV,0.81,2023-03-15,1,Wednesday,March
+INC-0241,Vehicle Incident,Jalpaiguri,2023-02-25 04:26:00,Medium,Power Grid,0,ELINT,0.89,2023-02-25,4,Saturday,February
+INC-0242,Infrastructure Failure,Darjeeling,2023-04-25 19:45:00,Low,Warehouse,0,IMINT,0.66,2023-04-25,19,Tuesday,April
+INC-0243,Infrastructure Failure,Raiganj,2023-04-05 23:28:00,High,Communication Tower,1,SIGINT,0.83,2023-04-05,23,Wednesday,April
+INC-0244,Fire,Durgapur,2023-05-06 10:33:00,Medium,Warehouse,0,ELINT,0.68,2023-05-06,10,Saturday,May
+INC-0245,Supply Disruption,Durgapur,2023-06-11 03:10:00,High,Drone,0,IMINT,,2023-06-11,3,Sunday,June
+INC-0246,Communication Outage,Cooch Behar,2023-05-31 11:08:00,Medium,Database,1,UNKNOWN,0.56,2023-05-31,11,Wednesday,May
+INC-0247,Physical Security Breach,Darjeeling,2023-04-20 18:05:00,Medium,Warehouse,0,UNKNOWN,0.99,2023-04-20,18,Thursday,April
+INC-0248,Communication Outage,Raiganj,2023-02-17 02:13:00,Low,Database,0,HUMINT,0.73,2023-02-17,2,Friday,February
+INC-0249,Suspicious Activity,Asansol,2023-06-29 02:25:00,High,Power Grid,0,SIGINT,0.78,2023-06-29,2,Thursday,June
+INC-0250,Data Breach,Durgapur,2023-01-20 21:26:00,Critical,Personnel,1,HUMINT,0.61,2023-01-20,21,Friday,January
+INC-0251,GPS Interference,Durgapur,2023-03-14 15:20:00,High,Personnel,1,CCTV,0.71,2023-03-14,15,Tuesday,March
+INC-0252,GPS Interference,Haldia,2023-02-16 19:46:00,Low,Database,0,UNKNOWN,0.65,2023-02-16,19,Thursday,February
+INC-0253,Fire,Cooch Behar,2023-03-20 06:49:00,Critical,Database,1,UNKNOWN,0.53,2023-03-20,6,Monday,March
+INC-0254,Unauthorized Access,Raiganj,2023-04-29 18:45:00,Medium,Vehicle,1,UNKNOWN,0.43,2023-04-29,18,Saturday,April
+INC-0255,Personnel Incident,Cooch Behar,2023-02-26 23:34:00,Low,Power Grid,0,ELINT,0.6,2023-02-26,23,Sunday,February
+INC-0256,Data Breach,Haldia,2023-03-14 20:12:00,Critical,Personnel,0,SIGINT,0.71,2023-03-14,20,Tuesday,March
+INC-0257,Supply Disruption,Raiganj,2023-06-06 07:00:00,Medium,Warehouse,0,CCTV,0.93,2023-06-06,7,Tuesday,June
+INC-0258,Drone Sighting,Kolkata,2023-03-12 18:17:00,High,Satellite,1,SOCIAL MEDIA,0.41,2023-03-12,18,Sunday,March
+INC-0259,Supply Disruption,Bardhaman,2023-05-11 09:11:00,Low,Network Infrastructure,0,IMINT,0.61,2023-05-11,9,Thursday,May
+INC-0260,Supply Disruption,Kolkata,2023-02-07 07:34:00,High,Satellite,0,SOCIAL MEDIA,0.47,2023-02-07,7,Tuesday,February
+INC-0261,Unauthorized Access,Raiganj,2023-05-16 02:19:00,Medium,Power Grid,0,SOCIAL MEDIA,0.56,2023-05-16,2,Tuesday,May
+INC-0262,GPS Interference,Malda,2023-06-19 18:59:00,High,Server,2,HUMINT,,2023-06-19,18,Monday,June
+INC-0263,Cyber Intrusion,Kolkata,2023-03-11 12:16:00,Low,Power Grid,0,CCTV,0.97,2023-03-11,12,Saturday,March
+INC-0264,Fire,Asansol,2023-04-25 10:14:00,Low,Database,0,SENSOR,0.71,2023-04-25,10,Tuesday,April
+INC-0265,Unauthorized Access,Haldia,2023-03-14 21:42:00,Critical,Database,0,INTERNAL REPORT,0.83,2023-03-14,21,Tuesday,March
+INC-0266,Suspicious Activity,Raiganj,2023-06-19 04:41:00,Medium,Personnel,0,HUMINT,0.82,2023-06-19,4,Monday,June
+INC-0267,Communication Outage,Bardhaman,2023-05-12 04:48:00,Critical,Personnel,0,IMINT,0.85,2023-05-12,4,Friday,May
+INC-0268,Personnel Incident,Darjeeling,2023-05-19 08:00:00,Critical,Warehouse,1,INTERNAL REPORT,0.96,2023-05-19,8,Friday,May
+INC-0269,GPS Interference,Haldia,2023-02-11 22:52:00,High,Power Grid,0,ELINT,0.77,2023-02-11,22,Saturday,February
+INC-0270,Suspicious Activity,Cooch Behar,2023-03-29 16:00:00,High,Warehouse,1,OSINT,0.6,2023-03-29,16,Wednesday,March
+INC-0271,Infrastructure Failure,Kharagpur,2023-02-24 22:40:00,Critical,Network Infrastructure,1,SENSOR,0.82,2023-02-24,22,Friday,February
+INC-0272,Communication Outage,Asansol,2023-05-01 00:22:00,Critical,Server,0,SENSOR,0.63,2023-05-01,0,Monday,May
+INC-0273,Suspicious Activity,Darjeeling,2023-04-13 18:43:00,High,Network Infrastructure,0,SENSOR,0.61,2023-04-13,18,Thursday,April
+INC-0274,Drone Sighting,Raiganj,2023-01-03 02:09:00,High,Drone,1,IMINT,0.67,2023-01-03,2,Tuesday,January
+INC-0275,Unauthorized Access,Darjeeling,2023-04-16 07:26:00,Critical,UNKNOWN,1,SIGINT,0.93,2023-04-16,7,Sunday,April
+INC-0276,Suspicious Activity,Jalpaiguri,2023-02-07 23:07:00,Medium,Network Infrastructure,0,CCTV,0.96,2023-02-07,23,Tuesday,February
+INC-0277,Personnel Incident,Jalpaiguri,2023-04-21 17:59:00,High,Database,0,HUMINT,0.77,2023-04-21,17,Friday,April
+INC-0278,Drone Sighting,Cooch Behar,2023-02-08 19:03:00,Critical,Vehicle,0,INTERNAL REPORT,0.91,2023-02-08,19,Wednesday,February
+INC-0279,Unauthorized Access,Darjeeling,2023-02-18 03:35:00,Critical,Personnel,0,CCTV,0.86,2023-02-18,3,Saturday,February
+INC-0280,Communication Outage,Cooch Behar,2023-03-30 04:14:00,Critical,Database,0,SOCIAL MEDIA,,2023-03-30,4,Thursday,March
+INC-0281,GPS Interference,Kolkata,2023-04-09 05:17:00,Medium,Warehouse,0,UNKNOWN,0.43,2023-04-09,5,Sunday,April
+INC-0282,Personnel Incident,Kolkata,2023-04-13 09:54:00,Critical,Warehouse,0,SOCIAL MEDIA,0.51,2023-04-13,9,Thursday,April
+INC-0283,Communication Outage,Raiganj,2023-06-24 20:59:00,High,Server,0,UNKNOWN,0.61,2023-06-24,20,Saturday,June
+INC-0284,Suspicious Activity,Kolkata,2023-01-09 08:24:00,Critical,Personnel,0,SENSOR,0.87,2023-01-09,8,Monday,January
+INC-0285,Unauthorized Access,Cooch Behar,2023-01-27 07:17:00,Critical,Communication Tower,0,OSINT,0.64,2023-01-27,7,Friday,January
+INC-0286,Physical Security Breach,Kharagpur,2023-06-06 20:46:00,Medium,Drone,0,SENSOR,0.75,2023-06-06,20,Tuesday,June
+INC-0287,Supply Disruption,Kolkata,2023-03-18 21:26:00,High,Drone,1,UNKNOWN,0.64,2023-03-18,21,Saturday,March
+INC-0288,Physical Security Breach,Jalpaiguri,2023-03-31 21:08:00,High,Satellite,0,CCTV,0.8,2023-03-31,21,Friday,March
+INC-0289,Suspicious Activity,Siliguri,2023-02-07 01:14:00,High,Database,0,UNKNOWN,0.46,2023-02-07,1,Tuesday,February
+INC-0290,Fire,Raiganj,2023-02-24 11:18:00,Low,Server,0,SIGINT,0.82,2023-02-24,11,Friday,February
+INC-0291,Supply Disruption,Malda,2023-04-11 21:44:00,Low,Power Grid,0,CCTV,0.79,2023-04-11,21,Tuesday,April
+INC-0292,Unauthorized Access,Kharagpur,2023-01-02 03:08:00,Low,Satellite,1,OSINT,0.86,2023-01-02,3,Monday,January
+INC-0293,Fire,Darjeeling,2023-04-22 08:43:00,Low,Database,0,CCTV,0.71,2023-04-22,8,Saturday,April
+INC-0294,Personnel Incident,Darjeeling,2023-04-26 08:12:00,Low,Communication Tower,1,SOCIAL MEDIA,0.73,2023-04-26,8,Wednesday,April
+INC-0295,Personnel Incident,Kolkata,2023-03-18 17:52:00,High,Communication Tower,1,HUMINT,0.88,2023-03-18,17,Saturday,March
+INC-0296,Data Breach,Darjeeling,2023-04-13 07:51:00,Critical,Server,0,ELINT,0.63,2023-04-13,7,Thursday,April
+INC-0297,Personnel Incident,Malda,2023-03-20 09:38:00,Low,Personnel,0,UNKNOWN,0.48,2023-03-20,9,Monday,March
+INC-0298,Suspicious Activity,Haldia,2023-01-08 04:03:00,Critical,Personnel,0,HUMINT,0.62,2023-01-08,4,Sunday,January
+INC-0299,Fire,Malda,2023-05-04 18:48:00,Medium,Personnel,0,CCTV,0.92,2023-05-04,18,Thursday,May
+INC-0300,Drone Sighting,Raiganj,2023-04-10 21:46:00,Critical,Database,0,HUMINT,0.91,2023-04-10,21,Monday,April
